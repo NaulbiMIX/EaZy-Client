@@ -1,0 +1,51 @@
+Summary for /storage/emulated/0/show-java/sources/easyjar-dcddd6db/jar-files/0.jar
+Decompiled with CFR 0.0
+
+
+net.minecraft.client.audio.SoundHandler
+----------------------------
+
+loadSoundResource(net.minecraft.util.ResourceLocation net.minecraft.client.audio.SoundList )
+  Unable to fully structure code
+
+
+net.minecraft.entity.item.EntityArmorStand
+----------------------------
+
+interactAt(net.minecraft.entity.player.EntityPlayer net.minecraft.util.Vec3 )
+  Unable to fully structure code
+
+
+net.minecraft.util.HttpUtil
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 10[WHILELOOP]
+
+
+net.minecraft.village.VillageSiege
+----------------------------
+
+func_75529_b()
+  Unable to fully structure code
+
+
+net.optifine.shaders.config.MacroProcessor
+----------------------------
+
+getMacroHeader(java.lang.String )
+  Unable to fully structure code
+
+
+optifine.json.Yylex
+----------------------------
+
+yylex()
+  Unable to fully structure code
+
+
+org.objectweb.asm.signature.SignatureReader
+----------------------------
+
+parseType(java.lang.String int org.objectweb.asm.signature.SignatureVisitor )
+  Unable to fully structure code

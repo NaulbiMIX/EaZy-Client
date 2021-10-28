@@ -1,0 +1,422 @@
+{
+  "AAATestModule": {
+    "enabled": false
+  },
+  "LagSign": {
+    "enabled": false
+  },
+  "MySpeed": {
+    "enabled": false
+  },
+  "BHop": {
+    "enabled": false
+  },
+  "LeeHop": {
+    "enabled": false
+  },
+  "SlowBHop": {
+    "enabled": false
+  },
+  "AAC": {
+    "enabled": false
+  },
+  "AAC2": {
+    "enabled": false
+  },
+  "NCPRace": {
+    "enabled": false
+  },
+  "RaceBHop": {
+    "enabled": false
+  },
+  "GommeRape": {
+    "enabled": false
+  },
+  "Old": {
+    "enabled": false
+  },
+  "OldJump": {
+    "enabled": false
+  },
+  "GommeBHop": {
+    "enabled": false
+  },
+  "Appearance": {
+    "enabled": false
+  },
+  "Other": {
+    "enabled": false
+  },
+  "KillAura": {
+    "enabled": false
+  },
+  "SuperHit": {
+    "enabled": false
+  },
+  "CobbleFarmBot": {
+    "enabled": false
+  },
+  "GommeFly": {
+    "enabled": false
+  },
+  "SmoothAim": {
+    "enabled": false
+  },
+  "Freecam": {
+    "enabled": false
+  },
+  "BlockOverlay": {
+    "enabled": true
+  },
+  "MinesuchtTP": {
+    "enabled": false
+  },
+  "Crasher": {
+    "enabled": false
+  },
+  "ESP": {
+    "enabled": false
+  },
+  "Chams": {
+    "enabled": false
+  },
+  "AntiAFK": {
+    "enabled": false
+  },
+  "AACGlide": {
+    "enabled": false
+  },
+  "AACTeleport": {
+    "enabled": false
+  },
+  "AirJump": {
+    "enabled": false
+  },
+  "AntiBlind": {
+    "enabled": false
+  },
+  "AntiSpam": {
+    "enabled": false
+  },
+  "AutoArmor": {
+    "enabled": false
+  },
+  "AutoPotion": {
+    "enabled": false
+  },
+  "BackPort": {
+    "enabled": false
+  },
+  "Blink": {
+    "enabled": false
+  },
+  "BowAimbot": {
+    "enabled": false
+  },
+  "ChestAura": {
+    "enabled": false
+  },
+  "ChestESP": {
+    "enabled": false
+  },
+  "ChestStealer": {
+    "enabled": false
+  },
+  "Criticals": {
+    "enabled": false
+  },
+  "Damage": {
+    "enabled": false
+  },
+  "Eagle": {
+    "enabled": false
+  },
+  "FastBow": {
+    "enabled": false
+  },
+  "FastBreak": {
+    "enabled": false
+  },
+  "FastLadder": {
+    "enabled": false
+  },
+  "FastPlace": {
+    "enabled": false
+  },
+  "FastUse": {
+    "enabled": false
+  },
+  "FastWeb": {
+    "enabled": false
+  },
+  "Fly": {
+    "enabled": false
+  },
+  "Fucker": {
+    "enabled": false
+  },
+  "Fullbright": {
+    "enabled": false
+  },
+  "GhostHand": {
+    "enabled": false
+  },
+  "NoFov": {
+    "enabled": false
+  },
+  "HighJump": {
+    "enabled": false
+  },
+  "IceSpeed": {
+    "enabled": false
+  },
+  "ILikeParticles": {
+    "enabled": true
+  },
+  "InventoryWalk": {
+    "enabled": true
+  },
+  "InvSpy": {
+    "enabled": false
+  },
+  "ItemESP": {
+    "enabled": false
+  },
+  "Jesus": {
+    "enabled": false
+  },
+  "JumpGlide": {
+    "enabled": false
+  },
+  "LaserTag": {
+    "enabled": false
+  },
+  "Liquids": {
+    "enabled": false
+  },
+  "LongJump": {
+    "enabled": false
+  },
+  "MidClickFriends": {
+    "enabled": false
+  },
+  "NameProtect": {
+    "enabled": false
+  },
+  "NameTags": {
+    "enabled": false
+  },
+  "NCPGlide": {
+    "enabled": false
+  },
+  "NoClip": {
+    "enabled": false
+  },
+  "NoFall": {
+    "enabled": false
+  },
+  "NoFire": {
+    "enabled": false
+  },
+  "NoFriends": {
+    "enabled": false
+  },
+  "NoHurtcam": {
+    "enabled": false
+  },
+  "Velocity": {
+    "enabled": false
+  },
+  "NoRotSet": {
+    "enabled": false
+  },
+  "NoScoreboard": {
+    "enabled": false
+  },
+  "NoSlowdown": {
+    "enabled": false
+  },
+  "NoSwing": {
+    "enabled": false
+  },
+  "Nuker": {
+    "enabled": false
+  },
+  "Phase": {
+    "enabled": false
+  },
+  "Regen": {
+    "enabled": false
+  },
+  "Reach": {
+    "enabled": true
+  },
+  "SafeWalk": {
+    "enabled": false
+  },
+  "Scaffold": {
+    "enabled": false
+  },
+  "Smileys": {
+    "enabled": false
+  },
+  "Sneak": {
+    "enabled": false
+  },
+  "Spammer": {
+    "enabled": false
+  },
+  "Speed": {
+    "enabled": false
+  },
+  "Spider": {
+    "enabled": false
+  },
+  "Sprint": {
+    "enabled": true
+  },
+  "Step": {
+    "enabled": false
+  },
+  "Strafe": {
+    "enabled": false
+  },
+  "Team": {
+    "enabled": false
+  },
+  "Timer": {
+    "enabled": false
+  },
+  "Tower": {
+    "enabled": false
+  },
+  "Tracers": {
+    "enabled": false
+  },
+  "TrueSight": {
+    "enabled": false
+  },
+  "Trajectories": {
+    "enabled": false
+  },
+  "VanillaTP": {
+    "enabled": false
+  },
+  "WaterControl": {
+    "enabled": false
+  },
+  "WaterSpeed": {
+    "enabled": false
+  },
+  "XRay": {
+    "enabled": false
+  },
+  "YesCheat": {
+    "enabled": true
+  },
+  "InvCleaner": {
+    "enabled": false
+  },
+  "AAC3Fly": {
+    "enabled": false
+  },
+  "AutoRespawn": {
+    "enabled": true
+  },
+  "HypixelFly": {
+    "enabled": false
+  },
+  "MinesuchtFly": {
+    "enabled": false
+  },
+  "AntiVanish": {
+    "enabled": true
+  },
+  "PixelArt": {
+    "enabled": false
+  },
+  "AutoFish": {
+    "enabled": false
+  },
+  "ArmCrasher": {
+    "enabled": false
+  },
+  "PingSpoof": {
+    "enabled": false
+  },
+  "Gui": {
+    "enabled": false
+  },
+  "Plugins": {
+    "enabled": false
+  },
+  "Plugins2": {
+    "enabled": false
+  },
+  "LogSpammer": {
+    "enabled": false
+  },
+  "JoinLeave": {
+    "enabled": true
+  },
+  "WorldEdit": {
+    "enabled": false
+  },
+  "FlyCrasher": {
+    "enabled": false
+  },
+  "MoveCrasher": {
+    "enabled": false
+  },
+  "BannerCrasher": {
+    "enabled": false
+  },
+  "Skript": {
+    "enabled": false
+  },
+  "RightClick": {
+    "enabled": false
+  },
+  "CrashAll": {
+    "enabled": false
+  },
+  "BlockPlace": {
+    "enabled": false
+  },
+  "ClickInv": {
+    "enabled": false
+  },
+  "Creative": {
+    "enabled": false
+  },
+  "BlockPlace2": {
+    "enabled": false
+  },
+  "ClickInv2": {
+    "enabled": false
+  },
+  "Creative2": {
+    "enabled": false
+  },
+  "BlockPlace3": {
+    "enabled": false
+  },
+  "ClickInv3": {
+    "enabled": false
+  },
+  "Creative3": {
+    "enabled": false
+  },
+  "BlockPlace4": {
+    "enabled": false
+  },
+  "ClickInv4": {
+    "enabled": false
+  },
+  "Creative4": {
+    "enabled": false
+  },
+  "SignCrasher": {
+    "enabled": false
+  }
+}

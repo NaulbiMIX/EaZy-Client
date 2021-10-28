@@ -1,0 +1,35 @@
+/*
+ * Decompiled with CFR 0.0.
+ * 
+ * Could not load the following classes:
+ *  java.io.InputStream
+ *  java.lang.Object
+ *  java.lang.String
+ */
+package net.optifine.shaders;
+
+import java.io.InputStream;
+import net.optifine.shaders.IShaderPack;
+
+public class ShaderPackDefault
+implements IShaderPack {
+    @Override
+    public void close() {
+    }
+
+    @Override
+    public InputStream getResourceAsStream(String resName) {
+        return ShaderPackDefault.class.getResourceAsStream(resName);
+    }
+
+    @Override
+    public String getName() {
+        return "(internal)";
+    }
+
+    @Override
+    public boolean hasDirectory(String name) {
+        return false;
+    }
+}
+

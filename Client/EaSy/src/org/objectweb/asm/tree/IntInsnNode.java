@@ -1,0 +1,43 @@
+/*
+ * Decompiled with CFR 0.0.
+ * 
+ * Could not load the following classes:
+ *  java.util.Map
+ */
+package org.objectweb.asm.tree;
+
+import java.util.Map;
+import org.objectweb.asm.MethodVisitor;
+import org.objectweb.asm.tree.AbstractInsnNode;
+import org.objectweb.asm.tree.LabelNode;
+
+public class IntInsnNode
+extends AbstractInsnNode {
+    public int operand;
+
+    public IntInsnNode(int opcode, int operand) {
+        super(opcode);
+        this.operand = operand;
+    }
+
+    public void setOpcode(int opcode) {
+        this.opcode = opcode;
+    }
+
+    @Override
+    public int getType() {
+        return 1;
+    }
+
+    @Override
+    public void accept(MethodVisitor methodVisitor) {
+        methodVisitor.visitIntInsn(this.opcode, this.operand);
+        this.acceptAnnotations(methodVisitor);
+    }
+
+    @Override
+    public AbstractInsnNode clone(Map<LabelNode, LabelNode> clonedLabels) {
+        return new IntInsnNode(this.opcode, this.operand).cloneAnnotations(this);
+    }
+}
+

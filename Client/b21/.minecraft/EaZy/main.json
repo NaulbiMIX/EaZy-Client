@@ -1,0 +1,22 @@
+{
+  "commandPrefix": "-",
+  "buttonMode": 2,
+  "blurredBackground": false,
+  "buttonModeName": "Dark",
+  "toggleSounds": false,
+  "advancedHotbar": true,
+  "cookies": 0,
+  "tritte": 0,
+  "noBob": true,
+  "smoothZoom": true,
+  "saveEaZyLogin": true,
+  "itemPhysics": false,
+  "betterChat": true,
+  "suffix": false,
+  "otherSwing": false,
+  "customFont": false,
+  "useClientColor": false,
+  "f5PositionXD": true,
+  "bgPath": "",
+  "bgMoving": true
+}

@@ -1,0 +1,14 @@
+{
+  "alertPlaySounds": false,
+  "alertsOnlineStatus": true,
+  "alertsPlayingOn": true,
+  "whatToDoRequests": 0,
+  "onlineStatus": 0,
+  "showConnectedIp": true,
+  "showNotify": true,
+  "showMessages": false,
+  "vEnabled": true,
+  "vMicVol": 10,
+  "vSoundVol": 10,
+  "vSoundRange": 20
+}

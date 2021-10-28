@@ -1,0 +1,32 @@
+{
+  "Combat": {
+    "Combat": "10.0_10.0_false_false"
+  },
+  "Glide": {
+    "Glide": "10.0_35.0_false_false"
+  },
+  "Movement": {
+    "Movement": "10.0_60.0_false_false"
+  },
+  "Other": {
+    "Other": "10.0_85.0_false_false"
+  },
+  "Player": {
+    "Player": "10.0_110.0_false_false"
+  },
+  "Render": {
+    "Render": "10.0_135.0_false_false"
+  },
+  "Speed": {
+    "Speed": "10.0_160.0_false_false"
+  },
+  "World": {
+    "World": "10.0_185.0_false_false"
+  },
+  "Hud": {
+    "Hud": "10.0_210.0_false_false"
+  },
+  "Radar": {
+    "Radar": "10.0_235.0_false_false"
+  }
+}
